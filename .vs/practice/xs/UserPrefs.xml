@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{30132006-9936-47B7-815C-87F4B49121BA}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/rei/Work/repos/practice/practice/Toptal/SpareSeats.cs" relfile="practice/Toptal/SpareSeats.cs" line="11" column="1" />
+      <Breakpoint file="/Users/rei/Work/repos/practice/practice/Toptal/SpareSeats.cs" relfile="practice/Toptal/SpareSeats.cs" line="28" column="1" />
+      <Breakpoint file="/Users/rei/Work/repos/practice/practice/Toptal/Addition.cs" relfile="practice/Toptal/Addition.cs" line="42" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="practice/Toptal/Addition.cs">
+    <Files>
+      <File FileName="practice/Program.cs" Line="11" Column="47" />
+      <File FileName="practice/Toptal/BinaryGap.cs" Line="14" Column="50" />
+      <File FileName="practice/Toptal/Pollution.cs" Line="22" Column="45" />
+      <File FileName="practice/Toptal/SpareSeats.cs" Line="35" Column="1" />
+      <File FileName="practice/Toptal/Addition.cs" Line="28" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="practice" expanded="True">
+            <Node name="practice" expanded="True">
+              <Node name="Toptal" expanded="True">
+                <Node name="Addition.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/rei/Work/repos/practice/practice/Toptal</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.practice PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

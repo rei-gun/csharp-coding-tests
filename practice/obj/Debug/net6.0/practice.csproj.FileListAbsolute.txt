@@ -1,0 +1,15 @@
+/Users/rei/Work/repos/practice/practice/bin/Debug/net6.0/practice
+/Users/rei/Work/repos/practice/practice/bin/Debug/net6.0/practice.deps.json
+/Users/rei/Work/repos/practice/practice/bin/Debug/net6.0/practice.runtimeconfig.json
+/Users/rei/Work/repos/practice/practice/bin/Debug/net6.0/practice.dll
+/Users/rei/Work/repos/practice/practice/bin/Debug/net6.0/practice.pdb
+/Users/rei/Work/repos/practice/practice/obj/Debug/net6.0/practice.csproj.AssemblyReference.cache
+/Users/rei/Work/repos/practice/practice/obj/Debug/net6.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rei/Work/repos/practice/practice/obj/Debug/net6.0/practice.AssemblyInfoInputs.cache
+/Users/rei/Work/repos/practice/practice/obj/Debug/net6.0/practice.AssemblyInfo.cs
+/Users/rei/Work/repos/practice/practice/obj/Debug/net6.0/practice.csproj.CoreCompileInputs.cache
+/Users/rei/Work/repos/practice/practice/obj/Debug/net6.0/practice.dll
+/Users/rei/Work/repos/practice/practice/obj/Debug/net6.0/refint/practice.dll
+/Users/rei/Work/repos/practice/practice/obj/Debug/net6.0/practice.pdb
+/Users/rei/Work/repos/practice/practice/obj/Debug/net6.0/practice.genruntimeconfig.cache
+/Users/rei/Work/repos/practice/practice/obj/Debug/net6.0/ref/practice.dll
